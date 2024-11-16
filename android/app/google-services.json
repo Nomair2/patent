@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897391056416",
+    "project_id": "patents-4f94f",
+    "storage_bucket": "patents-4f94f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897391056416:android:f5c0fb1f1570f3d18cce45",
+        "android_client_info": {
+          "package_name": "com.example.patents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgoX4MyGivuI_O6pAVbCYF10hgOVp0Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
